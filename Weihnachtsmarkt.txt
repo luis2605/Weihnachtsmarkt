@@ -1,0 +1,54 @@
+Auf dem Weihnachtsmarkt
+=======================
+Hier gibt es Stände.
+Sie unterteilen sich in
+- Glühwein-,
+- Futter- und
+- Verkaufs-Stände.
+
+Diese Stände können
+- offen (von der Straße erreichbar) oder
+- umbaut (man kann sie betreten) sein.
+
+Offene Stände haben eine Größe von 15 bis 25 qm
+Geschlossene Stände haben eine Größe von 30 bis 75 qm
+
+Es gibt insgesamt 70 Stände auf dem Weihnachtmarkt.
+- 10% Glühweinstände
+- 30% Futterstände
+- 60% Verkaufsstände
+
+Jeder Stand ist ZUFÄLLIG offen oder umbaut und hat eine ZUFÄLLIGE Größe aus der jeweiligen Kategorie.
+
+Die qm-Miete PRO TAG beträgt:
+- 100 Euro pro qm für Glühweinstände
+-  75 Euro pro qm für Futterstände
+-  65 Euro pro qm für Verkaufsstände
+
+
+Kein Deutscher Weihnachtsmarkt ohne haufenweise Auflagen :-)
+------------------------------------------------------------
+Glühwein- und Futter-Stände benötigen ZWINGEND
+- eine Erlaubnis nach dem Gaststättengesetz,
+- eine Schanklizenz und
+- eine Bescheinigung gemäß dem Infektionsschutzgesetz.
+
+ALLE Stände MÜSSEN
+- die örtlichen Brandschutzauflagen erfüllen und
+- eine solide Statik nachweisen.
+
+
+Und dann waren da noch die Einnahmen
+------------------------------------
+Der Weihnachtsmarkt hat vom 01.12. bis einschließlich 24.12. geöffnet.
+Jeden Tag kommen 10.000 Besucher auf den Weihnachtsmarkt.
+- 30% der Besucher gehen nur zu einem Glühweinstand
+- 20% der Besucher gehen nur zu einem Futterstand
+- 10% der Besucher gehen nur zu einem Verkaufsstand
+- 25% der Besucher gehen zu einem Verkaufsstand und zu einem Glühweinstand
+- 15% der Besucher gehen zu einem Verkaufsstand, zu einem Glühweinstand und zu einem Futterstand
+
+JEDER Besucher gibt sein Geld wie folgt aus:
+- Glühweinstand: 25 Euro
+- Futterstand: 20 Euro
+- Verkaufsstand: 30 Euro

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>Welcome to the Weihnachtsmark!!!</h1>
+
+    <form action="/action_page.php">
+      <label for="stands">Amount of Stands:</label>
+      <input type="text" id="fname" name="stands" /><br /><br />
+      <label for="visitors">Amount of visitors:</label>
+      <input type="text" id="lname" name="visitors" /><br /><br />
+      <label for="days">Amount of Days:</label>
+      <input type="text" id="lname" name="days" /><br /><br />
+      <input id="calculate" type="button" value="Calculate" />
+    </form>
+
+    <p>Click the "Calculate" button to create a new Weihnachtsmarkt .</p>
+
+    <div id="cont" class="container"></div>
+    <div class="results"></div>
+
+    <script src="./weihnachtsmark.js"></script>
+  </body>
+</html>

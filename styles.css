@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100%;
+
+  background-color: green;
+
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+.gluhwein {
+  background: red;
+  margin: 0.5em;
+  width: 60px;
+  height: 60px;
+}
+.futter {
+  background: yellow;
+  margin: 0.5em;
+  width: 60px;
+  height: 60px;
+}
+.verkauf {
+  background: blue;
+  margin: 0.5em;
+  width: 60px;
+  height: 60px;
+}
